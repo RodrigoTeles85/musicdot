@@ -8,3 +8,4 @@ CONTEÚDOS
   * Extrutura de um documento HTML;
   * Estilizando com CSS;
   * Espaçamentos e dimensões;
+  * Listas HTML;
