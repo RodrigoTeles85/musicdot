@@ -10,3 +10,4 @@ CONTEÚDOS
   * Espaçamentos e dimensões;
   * Listas HTML;
   * Seletores mais específicos e herança;
+  * Desacoplamento com classes;
