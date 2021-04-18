@@ -9,3 +9,4 @@ CONTEÚDOS
   * Estilizando com CSS;
   * Espaçamentos e dimensões;
   * Listas HTML;
+  * Seletores mais específicos e herança;
